@@ -1,1 +1,2 @@
-This is John's contribution
+delete john contribution
+Add Patrick 2nd contribution
